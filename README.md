@@ -29,11 +29,14 @@
 - مفهوم Implicit Intent 
 
 
-## مصادر مساعدة 
+## مصادر مساعدة
 
-- [مشروع Cupcake App] (https://github.com/shaima-alghamdi-tuwaiq/Cupcake-App) 
-- [مشروع Unscramble App] (https://github.com/shaima-alghamdi-tuwaiq/Unscramble-App)
-- [مشروع Words App] (https://github.com/shaima-alghamdi-tuwaiq/Word-App)
+- موقع ومصدر [Android Developer](https://developer.android.com/docs)
+- كورس وتدريب [Google](https://developer.android.com/courses/android-basics-kotlin/course?authuser=1)
+- قائمة بأشهر أنواع [Implicit Intent](https://developer.android.com/guide/components/intents-common)
+- [مشروع Cupcake App](https://github.com/shaima-alghamdi-tuwaiq/Cupcake-App) 
+- [مشروع Unscramble App](https://github.com/shaima-alghamdi-tuwaiq/Unscramble-App)
+- [مشروع Words App](https://github.com/shaima-alghamdi-tuwaiq/Word-App)
 
 
 ## المخرجات المطلوبة
