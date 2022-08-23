@@ -34,3 +34,9 @@
 - [مشروع Cupcake App] (https://github.com/shaima-alghamdi-tuwaiq/Cupcake-App) 
 - [مشروع Unscramble App] (https://github.com/shaima-alghamdi-tuwaiq/Unscramble-App)
 - [مشروع Words App] (https://github.com/shaima-alghamdi-tuwaiq/Word-App)
+
+
+## المخرجات المطلوبة
+- تطبيق Android يعمل بناءا على المتطلبات
+- عرض شرائح يشرح الفكرة والمفاهيم والخطوات المستخدمة في بناء المشروع
+- وصف عن الفكرة والمميزات الموجودة في التطبيق 
