@@ -17,16 +17,16 @@
 ## متطلبات المشروع النهائي 
 بناء تطبيق Android يتبع الهيكلة المعتمدة والتي تشمل المفاهيم التالية:
 - مفهوم App Architecture:
-    - مفهوم ViewModel
+    - مفهوم ViewModel او SharedViewModel
     - مفهوم LiveData
 - مفهوم Navigation Component 
     - احتواء التطبيق على Single Activity 
     - تمثيل باقي واجهات التطبيق بإستخدام Fragment
     - التنقل بين الواجهات بمساعدة: NavController و NavHost و NavGraph
     - تفعيل زر Up Navigation في اعلى التطبيق في App Action Bar 
-- مفهوم عرض قوائم من البيانات بإستخدام Adapter و RecyclerView و ViewModel
+- مفهوم عرض قوائم من البيانات بإستخدام Adapter و RecyclerView و ViewHolder Class
 - مفهوم DataBinding 
-- مفهوم Intent 
+- مفهوم Implicit Intent 
 
 
 ## مصادر مساعدة 
